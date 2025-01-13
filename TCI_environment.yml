@@ -1,6 +1,5 @@
 name: TCI
 channels:
-  - conda-forge/label/cf202003
   - soil
   - dranew
   - bioconda
